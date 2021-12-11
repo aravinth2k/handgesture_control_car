@@ -9,7 +9,7 @@ to control a 2 wheel robotic car using hand gesture we need
 
 connect motor with driver and arduino
 
-connect arduino with laptop
+connect arduino with laptop via USB cable to enable serial communication
 
 download python code and run on your pc
 
