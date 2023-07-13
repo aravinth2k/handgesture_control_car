@@ -8,6 +8,7 @@ Thumb face UP - Car Moves FORWARD
 
 Thumb face RIGHT - Car turns RIGHT
 
+
 Requirements 
   1. Laptop with python installed
   2. Arduino and Arduino IDE
@@ -16,10 +17,12 @@ Requirements
   5. DC Gear motor - 2
   6. Battery
 
+
 Python Modules Rewuired
   * pip install mediapipe
   * pip install opencv-python
   * pip install serial
+
 
 Arduino pin 2,3,4,5 as Output for Motor Controller
 
