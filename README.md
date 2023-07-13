@@ -3,7 +3,9 @@ Control a robot using Hand Gestures
 For Video :- https://www.linkedin.com/posts/aravinth-b_handgesturerobot-python-alwayslearning-activity-6866014314147512320-PuJu?utm_source=share&utm_medium=member_desktop
 
 python code search to detect your hand and retrive your Thumb finger position based on the thumb direction our car going to move
+
 Thumb face UP - Car Moves FORWARD
+
 Thumb face RIGHT - Car turns RIGHT
 
 Requirements 
