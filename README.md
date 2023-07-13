@@ -9,6 +9,7 @@ Thumb face UP - Car Moves FORWARD
 Thumb face RIGHT - Car turns RIGHT
 
 
+
 Requirements 
   1. Laptop with python installed
   2. Arduino and Arduino IDE
@@ -16,6 +17,7 @@ Requirements
   4. USB A to B Male to Male cable for Serial communication
   5. DC Gear motor - 2
   6. Battery
+
 
 
 Python Modules Rewuired
