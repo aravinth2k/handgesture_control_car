@@ -4,9 +4,9 @@ For Video :- https://www.linkedin.com/posts/aravinth-b_handgesturerobot-python-a
 
 python code search to detect your hand and retrive your Thumb finger position based on the thumb direction our car going to move
 
-Thumb face UP - Car Moves FORWARD
+Thumb face UP - Car Moves FORWARD and viceversa
 
-Thumb face RIGHT - Car turns RIGHT
+Thumb face RIGHT - Car turns RIGHT and viceversa
 
 
 
