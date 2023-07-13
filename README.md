@@ -20,6 +20,7 @@ Python Modules Rewuired
   * pip install serial
 
 Arduino pin 2,3,4,5 as Output for Motor Controller
+
 Arduino needs to connect with Laptop through usb cable (For Serial Communication)
 
 Step 1 :- Download Arduino code (serial.ino) from repository and Upload to Arduino Board 
