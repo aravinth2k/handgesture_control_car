@@ -19,11 +19,13 @@ Python Modules Rewuired
   * pip install opencv-python
   * pip install serial
 
-Arduino pin 2,3,4,5 as Output for Motor
+Arduino pin 2,3,4,5 as Output for Motor Controller
 Arduino needs to connect with Laptop through usb cable (For Serial Communication)
 
-Step 1 :- Download Arduino code (serial.ino) from repository and Upload to Arduino Board
+Step 1 :- Download Arduino code (serial.ino) from repository and Upload to Arduino Board 
+
 Step 2 :- Download python code (hand_gesture.py) from repository and run on your pc
+
 Step 3 :- Show hand gesture and our car turns based on the hand gestures
 
 
